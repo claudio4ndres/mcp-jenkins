@@ -4,9 +4,9 @@
 echo "🔧 Iniciando Jenkins MCP..." >&2
 
 # Configurar variables de entorno para Jenkins
-export JENKINS_URL="https://jenkins.coopeuch.cl"
-export JENKINS_USERNAME="Cfigueroa"
-export JENKINS_API_TOKEN="117aef1c3c97227805cb0e6e665faad309"
+export JENKINS_URL=""
+export JENKINS_USERNAME=""
+export JENKINS_API_TOKEN=""
 
 # Encontrar uv
 UV_LOCATIONS=(
